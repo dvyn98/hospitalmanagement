@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "HospitalManagementSystem-master/mysql-connector-java-8.0.18.jar"
+    ]
+}
